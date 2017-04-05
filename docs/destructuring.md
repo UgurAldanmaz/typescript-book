@@ -1,4 +1,4 @@
-### Parçalama (*destructing*)
+### Parçalama (*destructuring*)
 
 TypeScript aşağıda yer alan parçalama biçimlerini destekler:
 
