@@ -3,7 +3,9 @@ TypeScript'e Derin Dalış
 
 [![Chat kanalına katılın https://gitter.im/codefiction/typescript-book](https://badges.gitter.im/codefiction/typescript-book.svg)](https://gitter.im/codefiction/typescript-book?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Typescript kullanılırken genel olarak karşılaşılan hatalarla ilgilenmekteyim. Bu çalışma [StackOverflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) ve [TypeScript community](https://github.com/TypeStrong/) komünitesine bağlı kaynaklar üzerine kuruludur. [Güncellemeleri takip edebilirsiniz](https://twitter.com/basarat) ve [Github'da ★'lamayı unutmayın' ](https://github.com/basarat/typescript-book) 🌹
+Typescript kullanılırken genel olarak karşılaşılan hatalarla ilgilenmekteyim. Bu çalışma [StackOverflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) ve [TypeScript community](https://github.com/TypeStrong/) komünitesine bağlı kaynaklar üzerine kuruludur.
+
+[Github'da ★'lamayı unutmayın' ](https://github.com/Codefiction/typescript-book)
 
 ## Yorumlar
 
@@ -26,19 +28,19 @@ Typescript kullanılırken genel olarak karşılaşılan hatalarla ilgilenmektey
 * numTimesPointedPeopleToBasaratsTypeScriptBook++; ([link](https://twitter.com/brocco/status/814227741696462848))
 
 ## Başlamak için
-Kitabı okumaya [buradan başlayabilirsiniz](http://basarat.gitbooks.io/typescript/content/docs/getting-started.html).
+Kitabı okumaya [buradan başlayabilirsiniz](https://codefiction.gitbooks.io/typescript-kitabi/content).
 
 ## Diğer seçenekler
 Aşağıdakilerden birini indirebilirsiniz
-* [iPad,iPhone,Mac için EPUB](https://www.gitbook.com/download/epub/book/basarat/typescript)
-* [Windows ve diğerleri için PDF](https://www.gitbook.com/download/pdf/book/basarat/typescript)
-* [Kindle için MOBI](https://www.gitbook.com/download/mobi/book/basarat/typescript)
+* [iPad,iPhone,Mac için EPUB](https://www.gitbook.com/download/epub/book/codefiction/typescript)
+* [Windows ve diğerleri için PDF](https://www.gitbook.com/download/pdf/book/codefiction/typescript)
+* [Kindle için MOBI](https://www.gitbook.com/download/mobi/book/codefiction/typescript)
 
 ## Teşekkürler
-[Katkıda bulunan herkese](https://github.com/basarat/typescript-book/graphs/contributors) 🌹
+[Katkıda bulunan herkese](https://github.com/Codefiction/typescript-book/graphs/contributors) 🌹
 
 ## Paylaşın
-Adres: http://basarat.gitbooks.io/typescript/
+Adres: https://codefiction.gitbooks.io/typescript-kitabi/content/
 
 ## Türkçe Çeviri
 Kitabın Türkçe Çevirisi [Codefiction](https://github.com/Codefiction) tarafından yapılmıştır.
