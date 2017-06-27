@@ -1,3 +1,3 @@
-# Project
+# Proje
 
-To create a successful project using TypeScript you need to understand the various project organization language features available. In this section we will cover "compilation context", declaration spaces and modules.
+TypeScript kullanarak başarılı bir proje oluşturmak için,proje organizasyonunun daha iyi olmasını sağlayan Typescript özelliklerini iyi anlamak gerekir. Bu bölümde, "derleme içeriği(compilation context)", deklarasyon alanları ve modülleri ele alacağız.
